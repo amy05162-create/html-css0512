@@ -16,4 +16,16 @@
 - Elements > computed 查看盒模型
 - toggle device tool bar
 
-## 心智模型 metal model
+## 頁面分析
+- 由上而下
+- 由左而右(文字方向)
+- 由小螢幕分析到大螢幕
+
+## container容器
+- 限制內容最大寬度
+- 限制內容水平居中
+- 限制內容水平間距(for mobile device)
+
+### smantic html
+- 每個區塊的語意標籤 
+
