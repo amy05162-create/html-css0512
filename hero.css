@@ -1,0 +1,15 @@
+.container{
+    background-color: #1f2937;
+}
+.hero-wapper{
+
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.hero-img{
+    width: 300px;
+    height: auto;
+}
