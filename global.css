@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    font-family:  Helvetica, Arial, sans-serif;
+}
+
+.body{
+    line-height: 1.5rem;
+}
+.container{
+    width:min(100% -64px, 1120px);
+    margin: 0 auto;
+    /*margin-inline:auto ;*/
+}
