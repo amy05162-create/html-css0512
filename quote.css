@@ -1,5 +1,5 @@
 .quote-section{
-    background-color: #e5e7eb;   /* 跟你圖片一樣的質感淺灰色 */
+    background-color: #e5e7eb;   /* 跟圖片一樣淺灰色 */
     padding: 50px 35px;             /* 上下留白 */
     width: 100%;
     
@@ -18,7 +18,7 @@
 
     
 }
-.atuthor{
+.author{
     color: #0f172a;
     text-align: right;
     /* 字體大小用 vw 隨螢幕同步縮放 */

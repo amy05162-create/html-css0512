@@ -32,8 +32,7 @@
 .hero-title{
 
     color:#ffffff;
-    font-size: 40px;
-    font-size: clamp(10px, 5vw, 35px);
+    font-size: clamp(10px, 5vw, 45px);
     margin-bottom: 30px;
 
 }
@@ -90,9 +89,12 @@
         align-items: center;   
         text-align: left;          
         gap: 48px; 
-        
-        max-width: 100%;
-        width: 100%;
+        padding-top: 30px; 
+        padding-bottom: 30px;        
+        /* max-width: 100%; */
+        /* width: 100%; */
+        max-width: 1120px; 
+        margin: 0 auto;
 
     }
 

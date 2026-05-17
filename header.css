@@ -37,6 +37,8 @@
   .navbar {
     flex-direction: row;
     justify-content: space-between;
+    max-width: 1120px; 
+    margin: 0 auto;
   }
   .nav-link-group {
     padding-bottom: 0;

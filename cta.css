@@ -1,0 +1,80 @@
+.section-cta{
+    background-color: white;
+    padding:0px;
+    margin: 40px;
+    
+
+}
+
+.cta{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    background-color: #3882f6;
+    gap: 16px;
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 30px 20px;
+    border-radius: 8px;
+}
+
+.cta h3{
+    color: white;
+    font-size: 22px;
+    margin: 4px;
+    font-weight: bold;
+    text-align: center;
+}
+.cta p{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+.cta-signup{
+    background-color:#3882f6;
+    color:white;
+    border: 1px solid white;
+    padding: 9px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+
+}
+
+@media screen and (min-width: 640px) {
+    .cta {
+        flex-direction: row;       
+        justify-content: space-between;
+        align-items: center;   
+        text-align: left;          
+        gap: 24px; 
+        padding-top: 50px; 
+        padding-bottom: 50px;        
+        /* max-width: 100%; */
+        /* width: 100%; */
+        max-width: 1120px; 
+        margin: 0 auto;
+         white-space: nowrap; //防止換行
+
+    }
+
+    .cta-text{
+        display:flex;
+        flex-direction:column;
+        align-items:flex-start; 
+        text-align: left;           
+        max-width: 640px; 
+        
+              
+    }
+
+    
+    .cta-signup{
+        margin-right: 10px;  
+                     
+           
+              
+    }
+}
+
