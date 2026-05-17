@@ -1,0 +1,34 @@
+.quote-section{
+    background-color: #e5e7eb;   /* 跟你圖片一樣的質感淺灰色 */
+    padding: 50px 35px;             /* 上下留白 */
+    width: 100%;
+    
+}
+
+.quote{
+    color: #0f172a;
+    font-style: italic;
+    /* 字體大小用 vw 隨螢幕同步縮放 */
+    width:100%;
+    max-width: 620px;
+    font-size: 25px;
+    margin: 0 auto;
+    line-height: 1.8;
+    
+
+    
+}
+.atuthor{
+    color: #0f172a;
+    text-align: right;
+    /* 字體大小用 vw 隨螢幕同步縮放 */
+    width:100%;
+    max-width: 620px;
+    font-size: 20px;
+    margin: 0 auto;
+    
+    font-weight: bold;
+
+    
+}
+
